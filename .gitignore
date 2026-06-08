@@ -1,3 +1,5 @@
-.trae/
 __pycache__/
 *.pyc
+*.log
+*.tar
+test_hpc.py
